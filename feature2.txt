@@ -1,1 +1,2 @@
 This is Feature 2
+Additional content for Feature 2
