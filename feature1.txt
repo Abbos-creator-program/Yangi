@@ -1,1 +1,2 @@
 This is Feature 1
+Updated Feature 1 content
